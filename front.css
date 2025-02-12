@@ -1,50 +1,119 @@
-/* src/App.css */
-.app {
-    background-color: #000;
-    color: #ccc;
-    font-family: 'Arial', sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-  }
-  
-  .container {
-    text-align: center;
-    padding: 20px;
-    background-color: #333;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
-  }
-  
-  .title {
-    font-size: 2.5rem;
-    margin-bottom: 20px;
-  }
-  
-  .game-options {
-    margin: 20px;
-  }
-  
-  .game-button {
-    background: linear-gradient(135deg, #888, #ccc);
-    border: none;
-    color: #333;
-    font-size: 1.2rem;
-    padding: 10px 20px;
-    margin: 10px;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background 0.3s ease;
-  }
-  
-  .game-button:hover {
-    background: linear-gradient(135deg, #ccc, #888);
-  }
-  
-  .selected-game {
-    margin-top: 20px;
-    font-size: 1.5rem;
-  }
-  
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dashboard</title>
+    <script defer src="script.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+            background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: 'Poppins', sans-serif;
+            color: white;
+            overflow: hidden;
+            position: relative;
+        }
+        .container {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+            backdrop-filter: blur(15px);
+            text-align: center;
+            width: 400px;
+            z-index: 2;
+        }
+        h2 {
+            margin-bottom: 20px;
+        }
+        input, button {
+            width: 100%;
+            padding: 12px;
+            margin: 10px 0;
+            border: none;
+            border-radius: 8px;
+            outline: none;
+            font-size: 16px;
+        }
+        input {
+            background: rgba(255, 255, 255, 0.3);
+            color: white;
+            text-align: center;
+        }
+        button {
+            background: linear-gradient(135deg, #ff416c, #ff4b2b);
+            color: white;
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+        button:hover {
+            background: linear-gradient(135deg, #ff4b2b, #ff416c);
+        }
+        .animation-container {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+            z-index: 1;
+            overflow: hidden;
+        }
+        .bubble {
+            position: absolute;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 50%;
+            opacity: 0.8;
+            animation: float 10s infinite linear;
+        }
+        @keyframes float {
+            0% {
+                transform: translateY(100vh) scale(0.5);
+                opacity: 0.6;
+            }
+            50% {
+                opacity: 1;
+            }
+            100% {
+                transform: translateY(-10vh) scale(1.2);
+                opacity: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="animation-container"></div>
+    <div class="container">
+        <h2>Submit Data</h2>
+        <input type="number" id="age" placeholder="Age">
+        <input type="number" id="weight" placeholder="Weight">
+        <input type="number" id="height" placeholder="Height">
+        <button onclick="submitData()">Submit</button>
+        
+        <h2>Upload CSV</h2>
+        <input type="file" id="csvFile">
+        <button onclick="uploadFile()">Upload</button>
+    </div>
+    <script>
+        function createBubbles() {
+            const container = document.querySelector('.animation-container');
+            for (let i = 0; i < 20; i++) {
+                let bubble = document.createElement('div');
+                bubble.classList.add('bubble');
+                let size = Math.random() * 60 + 20;
+                bubble.style.width = `${size}px`;
+                bubble.style.height = `${size}px`;
+                bubble.style.left = `${Math.random() * 100}vw`;
+                bubble.style.animationDuration = `${Math.random() * 10 + 5}s`;
+                bubble.style.background = `rgba(${Math.random() * 255}, ${Math.random() * 255}, ${Math.random() * 255}, 0.3)`;
+                container.appendChild(bubble);
+            }
+        }
+        createBubbles();
+    </script>
+</body>
+</html>

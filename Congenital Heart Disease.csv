@@ -1,0 +1,351 @@
+riskAllele,pValue,pValueAnnotation,riskFrequency,orValue,beta,ci,mappedGenes,traitName,efoTraits
+rs146300195-?,1e-08,-,NR,3.6,-,[2.32-5.53],SLC27A6,Congenital right-sided heart lesions,congenital right-sided heart lesions
+chr14:23396970-?,5e-22,-,NR,44.2,-,[20.5-95.5],-,Aortic coarctation,Aortic Coarctation
+rs150246290-?,1e-10,-,NR,3.78,-,[2.51-5.64],MACROD2,Congenital heart disease (transposition of the great arteries),transposition of the great arteries
+rs148563140-?,3e-08,-,NR,3.42,-,[2.20-5.26],"RNU7-174P,RNU2-71P",Congenital heart disease (transposition of the great arteries),transposition of the great arteries
+rs2474937-C,8e-10,-,0.08,1.4,-,[1.26-1.56],"RNA5SP56,PSMC1P12",Congenital heart malformation,congenital heart malformation
+rs1531070-A,5e-12,-,0.11,1.4,-,[1.27-1.54],MAML3,Congenital heart malformation,congenital heart malformation
+rs12143842-T,1e-11,-,NR,1.32,-,[1.21-1.42],"NOS1AP,OLFML2B",Long QT syndrome,familial long QT syndrome
+rs3934467-T,3e-06,-,NR,1.22,-,[1.12-1.33],NOS1AP,Long QT syndrome,familial long QT syndrome
+rs179405-?,2e-08,-,NR,1.38,-,[1.23-1.54],KCNQ1,Long QT syndrome,familial long QT syndrome
+rs17061696-?,4e-08,-,NR,1.25,-,[1.15-1.35],KLF12,Long QT syndrome,familial long QT syndrome
+rs1805128-T,5e-07,-,NR,2.79,-,[1.67-3.9],KCNE1,Long QT syndrome,familial long QT syndrome
+rs138741144-?,7e-08,-,NR,2.46,-,[1.77-3.42],ASIC2,Congenital heart disease (septal defects),heart septal defect
+rs185531658-?,6e-08,-,NR,2.16,-,[1.67-3.90],"KCNN2,YTHDC2",Congenital heart disease (septal defects),heart septal defect
+rs870142-?,4e-07,(atrial septal defect),NR,1.4,-,[1.23-1.60],STX18-AS1,Congenital heart disease (septal defects),heart septal defect
+rs187369228-?,2e-08,(atrial septal defect type II),NR,2.97,-,[2.03-4.35],P3H2,Congenital heart disease (septal defects),heart septal defect
+rs72917381-?,2e-08,(atrial septal defect type II),NR,5.93,-,[3.19-11.13],WDR7,Congenital heart disease (septal defects),heart septal defect
+rs371321364-A,2e-11,-,0.9997,-,2.786 unit decrease,[2.75-2.82],ROBO1,Cardiac shunt/ heart septal defect (PheCode 747.11),atrial heart septal defect
+rs537462848-C,7e-16,-,0.9996,-,3.204 unit decrease,[3.18-3.23],"HSPBAP1,PARP14",Cardiac shunt/ heart septal defect (PheCode 747.11),atrial heart septal defect
+rs146656031-C,1e-11,-,0.9994,-,3.94 unit decrease,[3.93-3.95],"DYNAPP1,CUPIN1P",Cardiac shunt/ heart septal defect (PheCode 747.11),atrial heart septal defect
+rs562239572-A,1e-11,-,0.9993,-,3.692 unit decrease,[3.68-3.71],"LINC02864,NETO1-DT",Cardiac shunt/ heart septal defect (PheCode 747.11),atrial heart septal defect
+rs8061121-?,4e-09,(EA),0.11,2.65,-,[1.89-3.71],C16orf95,Congenital left-sided heart lesions,congenital left-sided heart lesions
+rs1975649-?,3e-07,-,0.33,1.65,-,[1.36-2.01],"SYNPR,SYNPR-AS1",Congenital left-sided heart lesions,congenital left-sided heart lesions
+rs6495706-?,9e-06,(EA),0.94,2.13,-,[1.52-3.03],"LINC02252,GJD2",Congenital left-sided heart lesions,congenital left-sided heart lesions
+rs3746446-G,1e-08,-,0.18,1.23,-,-,MYH7B,Congenital left-sided heart lesions,congenital left-sided heart lesions
+rs12045807-C,9e-07,-,0.089,1.61,-,-,ENSA,Congenital left-sided heart lesions,congenital left-sided heart lesions
+rs11514295-?,6e-06,-,NR,1.978587,-,[1.474307-2.655353],PRANCR,Left ventricular obstructive tract defect (inherited effect),congenital left-sided heart lesions
+rs74095902-?,8e-06,-,NR,2.3337548,-,[1.61-3.39],"RABEPKP1,DACH1",Left ventricular obstructive tract defect (inherited effect),congenital left-sided heart lesions
+rs6542647-?,8e-06,-,NR,1.742965,-,[1.37-2.22],"RNU6-649P,LINC01249",Left ventricular obstructive tract defect (inherited effect),congenital left-sided heart lesions
+rs6811802-?,5e-06,-,NR,2.009446,-,[1.490896-2.708352],"HNRNPA1P56,FRAS1",Left ventricular obstructive tract defect (inherited effect),congenital left-sided heart lesions
+rs72820264-?,2e-08,-,NR,2.048016,-,[1.594315-2.63083],HULC,Left ventricular obstructive tract defect (inherited effect),congenital left-sided heart lesions
+rs11755054-?,3e-06,-,NR,1.560273,-,[1.295775-1.878761],"CASC15,LINC03005",Left ventricular obstructive tract defect (inherited effect),congenital left-sided heart lesions
+rs733317-?,7e-06,-,NR,1.642646,-,[1.322779-2.039862],"ADCYAP1R1,GHRHR",Left ventricular obstructive tract defect (inherited effect),congenital left-sided heart lesions
+rs74377301-?,2e-06,-,NR,1.6310102,-,[1.33-2],"ASB15,ASB15-AS1",Left ventricular obstructive tract defect (inherited effect),congenital left-sided heart lesions
+rs1379134-?,4e-06,-,NR,2.6964426,-,[1.77-4.1],"ZMAT4,RNU6-356P",Left ventricular obstructive tract defect (inherited effect),congenital left-sided heart lesions
+rs672149-?,3e-06,-,NR,1.604462,-,[1.314302-1.958681],FLI1,Left ventricular obstructive tract defect (inherited effect),congenital left-sided heart lesions
+rs7623291-?,6e-06,-,NR,1.5704628,-,[1.29-1.91],"KCNMB2-AS1,KCNMB2",Left ventricular obstructive tract defect (inherited effect),congenital left-sided heart lesions
+rs11159840-?,2e-06,-,NR,1.6105342,-,[1.32-1.96],HISLA,Left ventricular obstructive tract defect (inherited effect),congenital left-sided heart lesions
+rs11894932-?,1e-07,-,NR,2.253714,-,[1.66-3.05],MGAT4A,Left ventricular obstructive tract defect (inherited effect),congenital left-sided heart lesions
+rs2567992-?,4e-06,-,NR,1.808068,-,[1.405743-2.325539],P2RX4,Left ventricular obstructive tract defect (inherited effect),congenital left-sided heart lesions
+rs7465601-?,8e-06,-,NR,1.593473,-,[1.298288-1.955773],"SNORA72,IADEN",Left ventricular obstructive tract defect (inherited effect),congenital left-sided heart lesions
+rs7607140-?,2e-06,-,NR,2.511428,-,[1.712819-3.682393],UPP2,Left ventricular obstructive tract defect (maternal effect),congenital left-sided heart lesions
+rs11766524-?,7e-06,-,NR,1.9189513,-,[1.44-2.55],LINC02476,Left ventricular obstructive tract defect (maternal effect),congenital left-sided heart lesions
+rs1572202-?,5e-06,-,NR,1.7677933,-,[1.38-2.26],"TMEM72-AS1,RPL9P21",Left ventricular obstructive tract defect (maternal effect),congenital left-sided heart lesions
+rs1468498-?,7e-06,-,NR,2.001637,-,[1.47963-2.707806],AFAP1L2,Left ventricular obstructive tract defect (maternal effect),congenital left-sided heart lesions
+rs12509281-?,2e-06,-,NR,2.2064974,-,[1.59-3.06],FRAS1,Left ventricular obstructive tract defect (maternal effect),congenital left-sided heart lesions
+rs1642645-?,8e-07,-,NR,1.8843181,-,[1.47-2.42],"HIVEP3,HNRNPFP1",Left ventricular obstructive tract defect (maternal effect),congenital left-sided heart lesions
+rs55788414-?,6e-08,-,NR,5.815446,-,[3.082993-10.969667],PKD1L2,Left ventricular obstructive tract defect (maternal effect),congenital left-sided heart lesions
+rs642743-?,9e-06,-,NR,1.6267596,-,[1.31-2.02],CFAP43,Left ventricular obstructive tract defect (maternal effect),congenital left-sided heart lesions
+rs77471149-?,9e-07,-,NR,2.001385,-,[1.52-2.64],"ANXA10,RN7SKP188",Left ventricular obstructive tract defect (maternal effect),congenital left-sided heart lesions
+rs35437121-?,4e-08,-,NR,2.27,-,[1.68-3.03],ARHGEF4,Congenital left-sided heart lesions,congenital left-sided heart lesions
+rs114503684-?,5e-08,-,NR,3.53,-,[2.25-5.58],TFDP2,Congenital left-sided heart lesions,congenital left-sided heart lesions
+rs2046060-?,7e-08,-,NR,1.57,-,[1.34-1.86],"LPP-AS2,LINC01991",Congenital left-sided heart lesions,congenital left-sided heart lesions
+rs870142-A,3e-10,(ASD),0.228,1.456,-,[NR],STX18-AS1,Congenital heart disease,congenital heart disease
+rs12186641-?,7e-06,(VSD),0.071,1.676,-,[NR],"HMGB1P47,RNA5SP182",Congenital heart disease,congenital heart disease
+rs1176869-?,9e-07,-,NR,1.350929,-,[1.198098-1.523256],"LINC02315,FBXO33",Congenital heart disease (inherited effect),congenital heart disease
+rs17111230-?,1e-06,-,NR,1.300763,-,[1.170317-1.445749],"LINC02315,FBXO33",Congenital heart disease (inherited effect),congenital heart disease
+rs1000613-?,9e-06,-,NR,1.359983,-,[1.187076-1.558076],"NIHCOLE,RNU6-334P",Congenital heart disease (inherited effect),congenital heart disease
+rs56409046-?,3e-07,-,NR,1.338672,-,[1.197921-1.49596],"HULC,OFCC1",Congenital heart disease (inherited effect),congenital heart disease
+rs13285621-?,8e-06,-,NR,1.277448,-,[1.147618-1.421966],"RNA5SP286,DPP3P2",Congenital heart disease (inherited effect),congenital heart disease
+rs11816084-?,3e-06,-,NR,1.363621,-,[1.197078-1.553335],"KRT8P37,CHCHD3P1",Congenital heart disease (inherited effect),congenital heart disease
+rs66678247-?,1e-06,-,NR,1.695341,-,[1.368477-2.100277],"ATOSBP1,DRD3",Congenital heart disease (inherited effect),congenital heart disease
+rs1430128-?,8e-06,-,NR,1.463883,-,[1.238378-1.730452],DIRC3,Congenital heart disease (inherited effect),congenital heart disease
+rs11895588-?,7e-07,-,NR,1.8365135,-,[1.44-2.34],LRP1B,Congenital heart disease (inherited effect),congenital heart disease
+rs4688406-?,4e-06,-,NR,1.2928599,-,[1.16-1.44],"SYNPR-AS1,SYNPR",Congenital heart disease (inherited effect),congenital heart disease
+rs146189703-?,1e-06,-,NR,1.0117474,-,[1.01-1.02],"TSEN2P1,ADAM29",Congenital heart disease (maternal effect),congenital heart disease
+rs13011467-?,6e-06,-,NR,1.4504842,-,[1.23-1.7],"EXTL2P1,LNPK",Congenital heart disease (maternal effect),congenital heart disease
+rs1217752-?,2e-06,-,NR,1.079766,-,[1.04621-1.114399],"MAP1B,CARTPT",Congenital heart disease (maternal effect),congenital heart disease
+rs2844660-?,1e-06,-,NR,1.365322,-,[1.204119-1.548106],"LINC02570,RN7SKP186",Congenital heart disease (maternal effect),congenital heart disease
+rs28549925-?,2e-06,-,NR,1.161366,-,[1.091756-1.235414],AHR,Congenital heart disease (maternal effect),congenital heart disease
+rs75661265-?,5e-07,-,NR,1.176603,-,[1.104347-1.253586],"RNA5SP267,TOX-DT",Congenital heart disease (maternal effect),congenital heart disease
+rs78642028-?,2e-06,-,NR,1.656935,-,[1.346536-2.038886],"DCAF4L2,SOX5P1",Congenital heart disease (maternal effect),congenital heart disease
+rs4885216-?,8e-06,-,NR,1.109866,-,[1.060398-1.161642],"RIOK3P1,LINC00347",Congenital heart disease (maternal effect),congenital heart disease
+rs9586881-?,5e-06,-,NR,1.067919,-,[1.038363-1.098317],LINC00373,Congenital heart disease (maternal effect),congenital heart disease
+rs1245314-?,9e-07,-,NR,1.121056,-,[1.071209-1.173223],"MIR4307HG,NOVA1-DT",Congenital heart disease (maternal effect),congenital heart disease
+rs12716944-?,6e-06,-,NR,1.290455,-,[1.156036-1.440503],"MPHOSPH6-DT,CDH13",Congenital heart disease (maternal effect),congenital heart disease
+rs7212330-?,2e-06,-,NR,1.4171551,-,[1.23-1.64],"ASGR2,CLEC10A",Congenital heart disease (maternal effect),congenital heart disease
+rs11623400-?,8e-06,-,NR,1.012026,-,[1.006737-1.017342],CTSG,Congenital heart disease (maternal effect),congenital heart disease
+rs1450832-?,5e-06,-,NR,1.100131,-,[1.055959-1.14615],FOXP2,Congenital heart disease (maternal effect),congenital heart disease
+rs35611996-?,3e-06,-,NR,1.008695,-,[1.005028-1.012374],"IQCJ-SCHIP1,SCHIP1",Congenital heart disease (maternal effect),congenital heart disease
+rs9870274-?,7e-06,-,NR,1.08651,-,[1.047867-1.126578],"IQCJ-SCHIP1,IQCJ",Congenital heart disease (maternal effect),congenital heart disease
+rs1941023-?,4e-07,-,NR,1.250764,-,[1.146796-1.364159],"MS4A12,MS4A13",Congenital heart disease (maternal effect),congenital heart disease
+rs73242632-?,8e-06,-,NR,1.969446,-,[1.46-2.65],POLR2B,Congenital heart disease (maternal effect),congenital heart disease
+rs1514658-?,8e-06,-,NR,1.508177,-,[1.259539-1.805898],PRSS12,Congenital heart disease (maternal effect),congenital heart disease
+rs56171387-?,4e-06,-,NR,1.0596397,-,[1.03-1.09],TMEM104,Congenital heart disease (maternal effect),congenital heart disease
+rs185531658-?,5e-09,-,NR,2.16,-,[1.67-2.80],"KCNN2,YTHDC2",Congenital heart disease,congenital heart disease
+rs55877192-G,1e-09,-,NR,0.42,-,-,CAPN11,Obstructive heart defect,congenital heart disease
+rs113920486-G,9e-06,-,NR,0.23,-,-,LNCAROD,Obstructive heart defect,congenital heart disease
+rs2360743-T,7e-13,-,NR,0.02,-,-,SLC44A2,Obstructive heart defect,congenital heart disease
+rs5913271-A,2e-06,-,NR,0.27,-,-,"HNRNPH3P1,TENT5D",Obstructive heart defect,congenital heart disease
+rs188255766-T,5e-07,-,NR,0.41,-,-,"LINCADL,AP3S1",Obstructive heart defect,congenital heart disease
+rs6545278-?,8e-07,"(EA, Inherited)",NR,2.62,-,[1.76-3.90],"CRTC1P1,GGCTP3",Conotruncal heart defects,conotruncal heart malformations
+rs6706785-?,6e-06,"(EA, Inherited)",NR,1.91,-,[1.44-.254],"LINC02991,HDAC4-AS1",Conotruncal heart defects,conotruncal heart malformations
+rs436582-?,3e-06,"(EA, Inherited)",NR,2.64,-,[1.73-4.03],PAPPA,Conotruncal heart defects,conotruncal heart malformations
+rs11017328-?,3e-07,"(EA, Inherited)",NR,2.87,-,[1.88-4.40],"MIR378C,Y_RNA",Conotruncal heart defects,conotruncal heart malformations
+rs1959122-?,9e-07,"(EA, Inherited)",NR,7.63,-,[2.92-19.95],"EIF3LP1,RPL9P6",Conotruncal heart defects,conotruncal heart malformations
+rs12150130-?,6e-06,"(EA, Inherited)",NR,3.48,-,[1.96-6.21],COX10,Conotruncal heart defects,conotruncal heart malformations
+rs11872184-?,4e-06,"(EA, Inherited)",NR,4.08,-,[2.15-7.74],SMCHD1,Conotruncal heart defects,conotruncal heart malformations
+rs6140038-?,1e-06,"(EA, Inherited)",0.011,5.24,-,[2.50-10.99],"CASC20,LINC01713",Conotruncal heart defects,conotruncal heart malformations
+rs2267386-?,1e-06,"(EA, Inherited)",0.024,3.12,-,[1.93-5.05],KCNJ4,Conotruncal heart defects,conotruncal heart malformations
+rs941024-?,8e-06,-,NR,1.380868,-,[1.198761-1.590639],"PSMB3P1,TMT1B",Conotruncal heart defects (inherited effects),conotruncal heart malformations
+rs2709466-?,6e-06,-,NR,1.254097,-,[1.136681-1.383642],"SILC1,LINC01810",Conotruncal heart defects (inherited effects),conotruncal heart malformations
+rs10202249-?,4e-06,-,NR,1.4175328,-,[1.22-1.64],"ATP5PBP4,LINC01850",Conotruncal heart defects (inherited effects),conotruncal heart malformations
+rs749573-?,6e-06,-,NR,1.391275,-,[1.205543-1.605622],"NUP210,IQSEC1",Conotruncal heart defects (inherited effects),conotruncal heart malformations
+rs72652966-?,7e-06,-,NR,1.444284,-,[1.231117-1.69436],"RNU6-596P,RPL30P10",Conotruncal heart defects (inherited effects),conotruncal heart malformations
+rs72775230-?,8e-06,-,NR,1.35126,-,[1.18372-1.542512],"KRT8P37,LINC00708",Conotruncal heart defects (inherited effects),conotruncal heart malformations
+rs35946663-?,5e-06,-,NR,1.272462,-,[1.147109-1.411514],GSKIP,Conotruncal heart defects (inherited effects),conotruncal heart malformations
+rs13177180-?,2e-06,-,NR,1.28418,-,[1.16-1.42],"TICAM2,FEM1C",Conotruncal heart defects (inherited effects),conotruncal heart malformations
+rs12072230-?,7e-06,-,NR,1.277104,-,[1.148286-1.420374],KAZN,Conotruncal heart defects (inherited effects),conotruncal heart malformations
+rs6886261-?,2e-07,-,NR,1.781221,-,[1.434992-2.210987],ANXA2R-OT1,Conotruncal heart defects (inherited effects),conotruncal heart malformations
+rs146189703-?,1e-06,-,NR,1.0117565,-,[1.01-1.02],"TSEN2P1,ADAM29",Conotruncal heart defects (maternal effects),conotruncal heart malformations
+rs1217752-?,2e-06,-,NR,1.080754,-,[1.046851-1.115756],"MAP1B,CARTPT",Conotruncal heart defects (maternal effects),conotruncal heart malformations
+rs2517582-?,3e-07,-,NR,1.174787,-,[1.104793-1.249214],LINC02570,Conotruncal heart defects (maternal effects),conotruncal heart malformations
+rs17189763-?,8e-07,-,NR,1.041635,-,[1.024871-1.058673],"SFTA2,NAPGP2",Conotruncal heart defects (maternal effects),conotruncal heart malformations
+rs28366133-?,4e-06,-,NR,1.226459,-,[1.124163-1.338064],MICA-AS1,Conotruncal heart defects (maternal effects),conotruncal heart malformations
+rs28549925-?,3e-06,-,NR,1.159924,-,[1.089849-1.234505],AHR,Conotruncal heart defects (maternal effects),conotruncal heart malformations
+rs55884872-?,2e-07,-,NR,1.198676,-,[1.120066-1.282803],"TOX-DT,RNA5SP267",Conotruncal heart defects (maternal effects),conotruncal heart malformations
+rs7024392-?,1e-06,-,NR,2.014347,-,[1.521009-2.667698],"AKAP8P1,JKAMPP1",Conotruncal heart defects (maternal effects),conotruncal heart malformations
+rs4885216-?,3e-06,-,NR,1.118451,-,[1.067431-1.171911],"RIOK3P1,LINC00347",Conotruncal heart defects (maternal effects),conotruncal heart malformations
+rs9586881-?,4e-06,-,NR,1.06833,-,[1.038647-1.098862],LINC00373,Conotruncal heart defects (maternal effects),conotruncal heart malformations
+rs1245314-?,2e-06,-,NR,1.119978,-,[1.068869-1.173531],"MIR4307HG,NOVA1-DT",Conotruncal heart defects (maternal effects),conotruncal heart malformations
+rs10129320-?,7e-06,-,NR,1.4042025,-,[1.21-1.63],"ATP5F1AP4,KCNH5",Conotruncal heart defects (maternal effects),conotruncal heart malformations
+rs12716944-?,4e-06,-,NR,1.339053,-,[1.182973-1.515725],"MPHOSPH6-DT,CDH13",Conotruncal heart defects (maternal effects),conotruncal heart malformations
+rs11669181-?,6e-06,-,NR,1.9649725,-,[1.47-2.63],"LINC01841,LINC01842",Conotruncal heart defects (maternal effects),conotruncal heart malformations
+rs11623400-?,8e-06,-,NR,1.012001,-,[1.006711-1.017319],CTSG,Conotruncal heart defects (maternal effects),conotruncal heart malformations
+rs1450832-?,8e-06,-,NR,1.099844,-,[1.054977-1.146619],FOXP2,Conotruncal heart defects (maternal effects),conotruncal heart malformations
+rs6441249-?,8e-06,-,NR,1.086821,-,[1.047895-1.127193],"IQCJ-SCHIP1,IQCJ",Conotruncal heart defects (maternal effects),conotruncal heart malformations
+rs35611996-?,3e-06,-,NR,1.00868,-,[1.005013-1.01236],"IQCJ-SCHIP1,SCHIP1",Conotruncal heart defects (maternal effects),conotruncal heart malformations
+rs6728515-?,7e-06,-,NR,1.268116,-,[1.143717-1.406045],KLHL29,Conotruncal heart defects (maternal effects),conotruncal heart malformations
+rs74461473-?,4e-07,-,NR,1.2547698,-,[1.15-1.37],SLC38A3,Conotruncal heart defects (maternal effects),conotruncal heart malformations
+rs56171387-?,7e-06,-,NR,1.0583634,-,[1.03-1.08],TMEM104,Conotruncal heart defects (maternal effects),conotruncal heart malformations
+rs41308639-?,7e-06,-,NR,1.226112,-,[1.122078-1.339792],ZNF343,Conotruncal heart defects (maternal effects),conotruncal heart malformations
+rs5908496-A,3e-06,-,NR,-,-,-,"SPANXN4,RNA5SP516",Conotruncal heart defects,conotruncal heart malformations
+rs5908494-T,3e-06,-,NR,-,-,-,"SPANXN4,RNA5SP516",Conotruncal heart defects,conotruncal heart malformations
+rs5908495-T,4e-06,-,NR,-,-,-,"RNA5SP516,SPANXN4",Conotruncal heart defects,conotruncal heart malformations
+rs13353396-?,3e-06,-,NR,-,-,-,LINC01811,Conotruncal heart defects with normally related great vessels,conotruncal heart malformations
+rs57942103-?,8e-06,-,NR,-,-,-,ZFPM2,Conotruncal heart defects with normally related great vessels,conotruncal heart malformations
+rs1489696-?,7e-06,-,NR,-,-,-,KCNS3,Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs3847797-?,8e-06,-,NR,-,-,-,PLXNC1,Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs7541623-?,8e-06,-,NR,-,-,-,NFASC,Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs10050856-?,9e-06,-,NR,-,-,-,"PTPN11P4,PRDM9",Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs35946663-?,9e-06,-,NR,-,-,-,GSKIP,Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs13102150-?,6e-07,-,NR,-,-,-,INPP4B,Conotruncal heart defects with normally related great vessels,conotruncal heart malformations
+rs3843430-?,1e-06,-,NR,-,-,-,LINC01182,Conotruncal heart defects with normally related great vessels,conotruncal heart malformations
+rs60280851-?,2e-06,-,NR,-,-,-,CORO2B,Conotruncal heart defects with normally related great vessels,conotruncal heart malformations
+rs1923665-?,2e-06,-,NR,-,-,-,NFASC,Conotruncal heart defects with normally related great vessels,conotruncal heart malformations
+rs2351027-?,3e-06,-,NR,-,-,-,LINC02945,Conotruncal heart defects with normally related great vessels,conotruncal heart malformations
+rs3801321-?,5e-06,-,NR,-,-,-,"EVX1-AS,HOTTIP",Conotruncal heart defects with normally related great vessels,conotruncal heart malformations
+rs1535478-?,5e-06,-,NR,-,-,-,"PTPRD,DMAC1",Conotruncal heart defects with normally related great vessels,conotruncal heart malformations
+rs7122295-?,9e-06,-,NR,-,-,-,"SLC25A47P1,RN7SL435P",Conotruncal heart defects with normally related great vessels,conotruncal heart malformations
+rs11244263-?,9e-06,-,NR,-,-,-,LAMC3,Conotruncal heart defects with normally related great vessels,conotruncal heart malformations
+rs3944007-?,1e-05,-,NR,-,-,-,"RNU6-257P,MTND4LP25",Conotruncal heart defects with normally related great vessels,conotruncal heart malformations
+rs921541-?,9e-07,-,NR,-,-,-,"TBC1D21,INSYN1-AS1",Conotruncal heart defects with normally related great vessels,conotruncal heart malformations
+rs6919284-?,3e-06,-,NR,-,-,-,TULP4,Conotruncal heart defects with normally related great vessels,conotruncal heart malformations
+rs72652956-?,5e-06,-,NR,-,-,-,"RNU6-596P,RPL30P10",Conotruncal heart defects with normally related great vessels,conotruncal heart malformations
+rs79379713-?,1e-05,-,NR,-,-,-,SLC15A3,Conotruncal heart defects with normally related great vessels,conotruncal heart malformations
+rs7720206-?,1e-06,-,NR,-,-,-,ADGRV1,Conotruncal heart defects with normally related great vessels in 22q.11.2 deletion syndrome,conotruncal heart malformations
+rs9381793-?,4e-06,-,NR,-,-,-,GLYATL3,Conotruncal heart defects with normally related great vessels in 22q.11.2 deletion syndrome,conotruncal heart malformations
+rs10133981-?,5e-06,-,NR,-,-,-,NGB,Conotruncal heart defects with normally related great vessels in 22q.11.2 deletion syndrome,conotruncal heart malformations
+rs75580157-?,5e-06,-,NR,-,-,-,SPOCK3,Conotruncal heart defects with normally related great vessels in 22q.11.2 deletion syndrome,conotruncal heart malformations
+rs1193773-?,9e-06,-,NR,-,-,-,"CCND2P1,SLC22A10",Conotruncal heart defects with normally related great vessels in 22q.11.2 deletion syndrome,conotruncal heart malformations
+rs60280851-?,1e-05,-,NR,-,-,-,CORO2B,Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs6886261-?,2e-07,-,NR,-,-,-,ANXA2R-OT1,Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs921541-?,2e-07,-,NR,-,-,-,"TBC1D21,INSYN1-AS1",Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs13353396-?,3e-07,-,NR,-,-,-,LINC01811,Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs2108975-?,6e-07,-,NR,-,-,-,SHISA6,Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs13411840-?,6e-07,-,NR,-,-,-,ALK,Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs839156-?,6e-07,-,NR,-,-,-,MGAT4C,Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs78977294-?,8e-07,-,NR,-,-,-,LINC00536,Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs2813392-?,8e-07,-,NR,-,-,-,ADARB2,Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs6465387-?,1e-06,-,NR,-,-,-,CALCR,Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs11012462-?,1e-06,-,NR,-,-,-,NEBL,Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs6882380-?,1e-06,-,NR,-,-,-,ANXA2R-OT1,Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs6996802-?,1e-06,-,NR,-,-,-,"RPL30P10,RNU6-596P",Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs3901254-?,2e-06,-,NR,-,-,-,MDGA1,Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs10756292-?,3e-06,-,NR,-,-,-,"JKAMPP1,AKAP8P1",Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs9346746-?,3e-06,-,NR,-,-,-,TULP4,Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs2358597-?,4e-06,-,NR,-,-,-,LINC01811,Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs13177180-?,5e-06,-,NR,-,-,-,"TICAM2,FEM1C",Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs73756772-?,5e-06,-,NR,-,-,-,"C5orf67,MAP3K1",Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs169716-?,7e-06,-,NR,-,-,-,"AMD1P4,HIVEP1",Conotruncal heart defects with normally related great vessels (without 22q.11.2 deletion syndrome),conotruncal heart malformations
+rs2099684-C,7e-12,-,0.26,1.54,-,[1.36-1.75],"RPS23P10,HSPA6",Takayasu arteritis,Takayasu arteritis
+rs17133698-C,3e-09,-,0.68,1.5151515,-,[1.32-1.75],"LINC03066,DUSP22",Takayasu arteritis,Takayasu arteritis
+rs2322599-G,3e-13,-,0.79,1.94,-,[1.62-2.31],PTK2B,Takayasu arteritis,Takayasu arteritis
+rs1713450-C,7e-09,-,0.13,1.55,-,[1.34-1.80],KLHL33,Takayasu arteritis,Takayasu arteritis
+rs103294-T,3e-08,-,0.75,1.53,-,[1.31-1.77],"MIR4752,LILRA5",Takayasu arteritis,Takayasu arteritis
+rs4817988-G,3e-10,-,0.80,1.77,-,[1.48-2.11],"RPL23AP12,LINC02940",Takayasu arteritis,Takayasu arteritis
+rs117298325-C,4.000000000000001e-34,-,NR,-,-,-,"LINC02571,HLA-B",Takayasu arteritis,Takayasu arteritis
+rs10921544-T,3e-07,(Turkish),0.05,2.59,-,[1.78-3.78],"EEF1A1P14,RNU6-983P",Takayasu arteritis,Takayasu arteritis
+rs7603494-?,2e-07,(Turkish),0.5,1.6129031,-,[1.35-1.92],"MSH2,MSH6",Takayasu arteritis,Takayasu arteritis
+rs9917659-?,5e-06,(Turkish),0.64,1.5625,-,[1.3-1.89],"LINC02033,TRANK1",Takayasu arteritis,Takayasu arteritis
+rs12511310-?,8e-06,(Turkish),0.61,1.5625,-,[1.28-1.89],"LINC02498,MIR572",Takayasu arteritis,Takayasu arteritis
+rs10470752-?,2e-06,(Turkish),0.75,1.754386,-,[1.39-2.22],"ATP8A1-DT,RN7SKP82",Takayasu arteritis,Takayasu arteritis
+rs7743661-C,1e-06,(Turkish),0.25,1.62,-,[1.33-1.97],DDR1,Takayasu arteritis,Takayasu arteritis
+rs4410768-G,2e-10,(Turkish),0.03,3.52,-,[2.34-5.30],PSORS1C1,Takayasu arteritis,Takayasu arteritis
+rs3869115-C,6e-07,(Turkish),0.06,2.23,-,[1.62-3.08],"HCG27,HLA-C",Takayasu arteritis,Takayasu arteritis
+rs9266745-G,2e-08,(Turkish),0.17,1.87,-,[1.50-2.34],MICA-AS1,Takayasu arteritis,Takayasu arteritis
+chr6:31570670-T,1e-09,(Turkish),0.06,2.56,-,[1.88-3.50],-,Takayasu arteritis,Takayasu arteritis
+rs28399987-A,8e-08,(Turkish),0.02,3.55,-,[2.17-5.79],"MSH5-SAPCD1,SAPCD1",Takayasu arteritis,Takayasu arteritis
+rs8111-?,1e-06,(Turkish),0.6,1.5873016,-,[1.32-1.92],ATF6B,Takayasu arteritis,Takayasu arteritis
+rs375244-A,3e-06,(Turkish),0.28,1.57,-,[1.30-1.90],NOTCH4,Takayasu arteritis,Takayasu arteritis
+rs3817971-C,5e-06,(Turkish),0.03,2.62,-,[1.71-4.01],"BTNL2,TSBP1-AS1",Takayasu arteritis,Takayasu arteritis
+rs9271539-?,2e-07,(Turkish),0.56,1.6393442,-,[1.35-1.96],"HLA-DQA1,HLA-DRB1",Takayasu arteritis,Takayasu arteritis
+chr6:33036435-G,4e-06,(Turkish),0.14,1.75,-,[1.38-2.22],-,Takayasu arteritis,Takayasu arteritis
+rs2069837-?,2e-07,(Turkish),0.81,1.9607843,-,[1.52-2.56],IL6,Takayasu arteritis,Takayasu arteritis
+rs7005183-?,6e-06,(Turkish),0.6,1.5384616,-,[1.28-1.85],PTK2B,Takayasu arteritis,Takayasu arteritis
+rs7843437-?,1e-06,(Turkish),0.62,1.6129031,-,[1.32-1.96],"RN7SL675P,RNA5SP270",Takayasu arteritis,Takayasu arteritis
+rs10816540-?,3e-06,(Turkish),0.47,1.5384616,-,[1.28-1.85],"RNU6-996P,PPIAP88",Takayasu arteritis,Takayasu arteritis
+rs2457837-T,3e-07,(Turkish),0.22,1.74,-,[1.41-2.15],FRMD4A,Takayasu arteritis,Takayasu arteritis
+rs12419742-?,9e-06,(Turkish),0.92,2.5,-,[1.64-3.7],OPCML,Takayasu arteritis,Takayasu arteritis
+rs12321966-?,1e-06,(Turkish),0.92,2.7027025,-,[1.75-4],"Y_RNA,CLEC4E",Takayasu arteritis,Takayasu arteritis
+rs7956657-A,4e-06,(Turkish),0.11,1.83,-,[1.41-2.37],"SLC16A7,Y_RNA",Takayasu arteritis,Takayasu arteritis
+rs11666543-?,4e-08,(Turkish),0.7,1.7857143,-,[1.45-2.22],RPS9,Takayasu arteritis,Takayasu arteritis
+rs4817984-?,1e-10,-,NR,1.8518518,-,[NR],"RPL23AP12,LINC02940",Takayasu arteritis,Takayasu arteritis
+rs6560480-C,9e-07,-,NR,1.49,-,[NR],PCSK5,Takayasu arteritis,Takayasu arteritis
+rs1113601-?,2e-06,-,NR,1.7857143,-,[NR],ZFPM2,Takayasu arteritis,Takayasu arteritis
+rs9615754-?,4e-06,-,NR,1.724138,-,[NR],"EPIC1,MIR3201",Takayasu arteritis,Takayasu arteritis
+rs410852-G,4e-06,-,NR,1.47,-,[NR],"MIR4752,LILRA5",Takayasu arteritis,Takayasu arteritis
+rs7956657-A,6e-06,-,NR,1.67,-,[NR],"SLC16A7,Y_RNA",Takayasu arteritis,Takayasu arteritis
+rs11675428-?,8e-06,-,NR,1.8518518,-,[NR],"NRBP1,PPM1G",Takayasu arteritis,Takayasu arteritis
+rs13260543-?,9e-06,-,NR,1.4285715,-,[NR],PTK2B,Takayasu arteritis,Takayasu arteritis
+rs58693904-T,4e-09,-,NR,1.5086,-,NR,VPS8,Takayasu arteritis,Takayasu arteritis
+rs4379175-T,3e-09,-,NR,1.3624,-,NR,"LINC01845,IL12B",Takayasu arteritis,Takayasu arteritis
+rs28834970-C,1e-09,-,NR,0.7143,-,NR,PTK2B,Takayasu arteritis,Takayasu arteritis
+rs7038415-A,5e-08,-,NR,1.4528,-,NR,"SVEP1,TXNDC8",Takayasu arteritis,Takayasu arteritis
+rs9540128-T,2e-08,-,NR,2.0193,-,NR,"LGMNP1,LINC00355",Takayasu arteritis,Takayasu arteritis
+rs76457959-T,3e-09,-,NR,1.62,-,NR,"CFL2,RPL12P6",Takayasu arteritis,Takayasu arteritis
+rs2836883-A,1e-12,-,NR,0.6387,-,NR,"RPL23AP12,LINC02940",Takayasu arteritis,Takayasu arteritis
+rs115155040-A,6e-06,-,NR,3.303,-,NR,"RAD18,CAV3",Takayasu arteritis,Takayasu arteritis
+rs74712413-A,1e-05,-,NR,5.069,-,NR,"GADL1,MIR466",Takayasu arteritis,Takayasu arteritis
+rs12492780-T,5e-06,-,NR,2.8085,-,NR,CACNA2D3,Takayasu arteritis,Takayasu arteritis
+rs1877209-T,7e-06,-,NR,1.4774,-,NR,RBPJ,Takayasu arteritis,Takayasu arteritis
+rs113569359-A,6e-06,-,NR,1.8318,-,NR,"RBPJ,CCKAR",Takayasu arteritis,Takayasu arteritis
+rs142314071-T,6e-07,-,NR,12.02,-,NR,PPP2R2B,Takayasu arteritis,Takayasu arteritis
+rs3847061-C,9e-06,-,NR,1.4064,-,NR,EPHB4,Takayasu arteritis,Takayasu arteritis
+rs1051957-G,9e-07,-,NR,1.2998,-,NR,ENTR1,Takayasu arteritis,Takayasu arteritis
+rs1250566-A,9e-06,-,NR,0.7581,-,NR,ZMIZ1,Takayasu arteritis,Takayasu arteritis
+rs1462717-T,5e-06,-,NR,1.3512,-,NR,"MIR4302,TDGP1",Takayasu arteritis,Takayasu arteritis
+rs1376741-T,4e-07,-,NR,1.5152,-,NR,"RPS15AP34,LINC02165",Takayasu arteritis,Takayasu arteritis
+rs35409540-A,7e-07,-,NR,0.7278,-,NR,"CLEC3A,VAT1L",Takayasu arteritis,Takayasu arteritis
+rs12596533-G,3e-06,-,NR,3.7889,-,NR,PLCG2,Takayasu arteritis,Takayasu arteritis
+rs76139923-T,7e-06,-,NR,3.532,-,NR,CCR7,Takayasu arteritis,Takayasu arteritis
+rs176237-T,5e-06,-,NR,1.7857,-,NR,"LINC01254,APCDD1",Takayasu arteritis,Takayasu arteritis
+rs2852306-G,5e-06,-,NR,1.546,-,NR,SLC14A2,Takayasu arteritis,Takayasu arteritis
+rs34629529-A,1e-06,-,NR,1.567,-,NR,"TSEN34,RPS9",Takayasu arteritis,Takayasu arteritis
+rs136301-A,6e-06,-,NR,2.404,-,NR,OSBP2,Takayasu arteritis,Takayasu arteritis
+rs2844678-?,5.999999999999999e-47,-,NR,2.71,-,NR,"MUC21,NAPGP2",Takayasu arteritis,Takayasu arteritis
+rs12524487-?,6e-38,(conditional on rs2844678),NR,3.12,-,NR,MICA-AS1,Takayasu arteritis,Takayasu arteritis
+rs17193507-?,6.999999999999999e-30,(conditional on rs2844678 and rs12524487),NR,3.28,-,NR,MICA-AS1,Takayasu arteritis,Takayasu arteritis
+rs12526858-?,2e-10,"(conditional on rs2844678, rs12524487 and rs17193507)",NR,2.7,-,NR,HLA-B,Takayasu arteritis,Takayasu arteritis
+rs28749167-?,2e-09,"(conditional on rs2844678, rs12524487, rs17193507 and rs12526858)",NR,1.43,-,NR,POLR1HASP,Takayasu arteritis,Takayasu arteritis
+HLA-B*5201-?,4e-36,-,NR,4.37,-,NR,-,Takayasu arteritis,Takayasu arteritis
+HLA-B*1302-?,3e-25,(conditional on HLA-B*5201),NR,3.21,-,NR,-,Takayasu arteritis,Takayasu arteritis
+HLA-B*1501-?,1e-15,(conditional on HLA-B*5201 and HLA-B*1302),NR,3.07,-,NR,-,Takayasu arteritis,Takayasu arteritis
+HLA-DQB1*0502-?,4e-08,"(conditional on HLA-B*5201, HLA-B*1302 and HLA-B*1501)",NR,1.9,-,NR,-,Takayasu arteritis,Takayasu arteritis
+rs12515766-G,2e-08,-,0.3123,1.458,-,[1.277-1.664],"IL12B,LINC01845",Takayasu arteritis,Takayasu arteritis
+rs2322599-A,2e-06,-,0.3542,0.7166,-,[0.6238-0.8231],PTK2B,Takayasu arteritis,Takayasu arteritis
+rs2836883-A,8e-07,-,0.2574,0.6721,-,[0.5738-0.7872],"RPL23AP12,LINC02940",Takayasu arteritis,Takayasu arteritis
+rs3812560-C,2e-06,-,0.3196,1.374,-,[1.204-1.567],"CARD9,SNAPC4",Takayasu arteritis,Takayasu arteritis
+rs1376741-T,7e-07,-,0.07147,1.732,-,[1.395-2.151],"RPS15AP34,LINC02165",Takayasu arteritis,Takayasu arteritis
+rs34629529-A,1e-06,-,0.308,1.567,-,[1.308-1.877],"TSEN34,RPS9",Takayasu arteritis,Takayasu arteritis
+rs2844678-?,2e-42,-,NR,-,-,-,"MUC21,NAPGP2",Takayasu arteritis,Takayasu arteritis
+rs9262437-?,5e-31,(conditional on rs2844678),NR,-,-,-,"MUC22,MUC21",Takayasu arteritis,Takayasu arteritis
+rs61444472-?,2e-17,(conditional on rs2844678 and rs9262437),NR,-,-,-,PSORS1C1,Takayasu arteritis,Takayasu arteritis
+rs17193507-?,2e-18,"(conditional on rs2844678, rs9262437 and rs61444472)",NR,-,-,-,MICA-AS1,Takayasu arteritis,Takayasu arteritis
+rs9271066-?,2e-11,"(conditional on rs2844678, rs9262437, rs61444472 and rs17193507)",NR,-,-,-,"HLA-DRB1,HLA-DQA1",Takayasu arteritis,Takayasu arteritis
+HLAB*5201-?,3e-20,-,NR,-,-,-,-,Takayasu arteritis,Takayasu arteritis
+HLAB*1302-?,2e-16,(conditional on HLAB*5201),NR,-,-,-,-,Takayasu arteritis,Takayasu arteritis
+HLA-DQB1*0502-?,1e-07,(conditional on HLAB*5201 and HLA-B*1302),NR,-,-,-,-,Takayasu arteritis,Takayasu arteritis
+rs9540128-T,1e-07,-,0.1176,2.046,-,[1.571-2.664],"LGMNP1,LINC00355",Takayasu arteritis,Takayasu arteritis
+rs2242944-A,6e-06,-,0.3617,0.5838,-,[0.4625-0.737],"LINC02940,RPL23AP12",Takayasu arteritis,Takayasu arteritis
+rs115155040-A,6e-06,-,0.01976,3.303,-,[1.968-5.543],"RAD18,CAV3",Takayasu arteritis,Takayasu arteritis
+rs76139923-T,7e-06,-,0.01517,3.532,-,[2.035-6.13],CCR7,Takayasu arteritis,Takayasu arteritis
+rs12524487-?,7e-20,-,NR,-,-,-,MICA-AS1,Takayasu arteritis,Takayasu arteritis
+rs62392216-?,3e-11,(conditional on rs12524487),NR,-,-,-,"HLA-W,POLR1HASP",Takayasu arteritis,Takayasu arteritis
+rs45479291-?,2e-16,(conditional on rs12524487and rs62392216),NR,-,-,-,"HLA-F-AS1,HCG4,HLA-V",Takayasu arteritis,Takayasu arteritis
+HLAB*5201-?,2e-10,-,NR,-,-,-,-,Takayasu arteritis,Takayasu arteritis
+HLAB*1501-?,1e-11,(conditional on HLAB*5201),NR,-,-,-,-,Takayasu arteritis,Takayasu arteritis
+rs74712413-A,1e-05,-,0.02812,5.07,-,[2.47-10.4],"GADL1,MIR466",Takayasu arteritis,Takayasu arteritis
+rs136301-A,6e-06,-,0.4173,2.4,-,[1.644-3.514],OSBP2,Takayasu arteritis,Takayasu arteritis
+rs12110437-?,2e-10,-,NR,-,-,-,POLR1HASP,Takayasu arteritis,Takayasu arteritis
+rs1264697-?,1e-08,(conditional on rs12110437),NR,-,-,-,"RNF39,TRIM31-AS1",Takayasu arteritis,Takayasu arteritis
+rs28752871-?,5e-08,(conditional on rs12110437 and rs1264697),NR,-,-,-,"LINC02571,HLA-B",Takayasu arteritis,Takayasu arteritis
+rs142314071-T,6e-07,-,0.007519,12.02,-,[4.524-31.94],PPP2R2B,Takayasu arteritis,Takayasu arteritis
+rs62392216-?,1e-11,-,NR,-,-,-,"HLA-W,POLR1HASP",Takayasu arteritis,Takayasu arteritis
+rs12524487-T,6e-16,-,0.04,3.29,-,-,MICA-AS1,Takayasu arteritis,Takayasu arteritis
+rs113452171-T,4e-09,-,0.093,2.34,-,-,"HLA-DQA1,HLA-DQB1",Takayasu arteritis,Takayasu arteritis
+rs10919543-G,6e-12,-,0.413,1.81,-,-,"RPS23P10,FCGR3A",Takayasu arteritis,Takayasu arteritis
+rs56167332-A,2e-06,-,NR,1.54,-,-,"IL12B,LINC01845",Takayasu arteritis,Takayasu arteritis
+chr21:40462378:D-?,4e-07,-,NR,1.62,-,-,-,Takayasu arteritis,Takayasu arteritis
+rs4817984-?,3e-08,(Turkish),0.71,1.8518518,-,[1.49-2.27],"RPL23AP12,LINC02940",Takayasu arteritis,Takayasu arteritis
+rs9615754-?,4e-06,(Turkish),0.85,1.923077,-,[1.45-2.56],"EPIC1,MIR3201",Takayasu arteritis,Takayasu arteritis
+rs12047961-A,2e-07,(EA),0.01,6.37,-,[2.89-14.03],"SLAMF6P1,UHMK1",Takayasu arteritis,Takayasu arteritis
+rs2660739-A,7e-06,(EA),0.06,2.46,-,[1.64-3.69],ROBO1,Takayasu arteritis,Takayasu arteritis
+rs4981676-G,5e-06,(EA),0.11,2.17,-,[1.55-3.04],FOXG1-AS1,Takayasu arteritis,Takayasu arteritis
+rs10144053-T,6e-06,(EA),0.15,2.04,-,[1.49-2.79],HISLA,Takayasu arteritis,Takayasu arteritis
+rs1868971-?,3e-06,(EA),0.74,2.5,-,[1.67-3.7],"RBFOX1,LINC02152",Takayasu arteritis,Takayasu arteritis
+rs6904014-T,5e-06,(EA),0.02,3.85,-,[2.07-7.19],"AMD1P4,HIVEP1",Takayasu arteritis,Takayasu arteritis
+chr6:26264671-A,5e-07,(EA),0.01,4.71,-,[2.43-9.16],-,Takayasu arteritis,Takayasu arteritis
+rs4624865-C,5e-06,(EA),0.02,3.56,-,[1.99-6.36],"GPX5,GPX6",Takayasu arteritis,Takayasu arteritis
+rs4463283-A,1e-06,(EA),0.06,2.61,-,[1.74-3.90],"OR2J1,OR2W1-AS1",Takayasu arteritis,Takayasu arteritis
+rs5875188-?,7e-06,(EA),0.06,2.52,-,[1.66-3.83],LINC03003,Takayasu arteritis,Takayasu arteritis
+rs9380141-C,1e-06,(EA),0.29,1.94,-,[1.48-2.55],HLA-F-AS1,Takayasu arteritis,Takayasu arteritis
+rs4713281-A,1e-06,(EA),0.28,1.97,-,[1.49-2.59],POLR1HASP,Takayasu arteritis,Takayasu arteritis
+rs12111032-G,1e-09,(EA),0.24,2.32,-,[1.76-3.06],"HLA-C,USP8P1",Takayasu arteritis,Takayasu arteritis
+rs12524487-T,3e-15,(EA),0.07,3.78,-,[2.66-5.36],MICA-AS1,Takayasu arteritis,Takayasu arteritis
+rs2736173-A,2e-07,(EA),0.03,3.58,-,[2.14-5.98],PRRC2A,Takayasu arteritis,Takayasu arteritis
+rs28381348-C,5e-06,(EA),0.04,2.81,-,[1.77-4.47],"MSH5-SAPCD1,MSH5",Takayasu arteritis,Takayasu arteritis
+rs41267090-T,8e-07,(EA),0.05,2.82,-,[1.84-4.33],"EHMT2-AS1,EHMT2",Takayasu arteritis,Takayasu arteritis
+rs9380294-C,7e-06,(EA),0.01,4.76,-,[2.25-10.07],"TSBP1-AS1,HLA-DRA",Takayasu arteritis,Takayasu arteritis
+rs1383258-A,2e-10,(EA),0.04,3.68,-,[2.40-5.64],HLA-DOB,Takayasu arteritis,Takayasu arteritis
+rs12608210-A,1e-06,(EA),0.29,1.95,-,[1.48-2.56],"LINC01915,LINC01894",Takayasu arteritis,Takayasu arteritis
+rs12571685-G,6e-06,(EA),0.08,2.33,-,[1.60-3.39],"ORMDL1P1,CELF2-DT",Takayasu arteritis,Takayasu arteritis
+rs2069837-?,7e-09,-,0.91,2.0833335,-,[NR],IL6,Takayasu arteritis,Takayasu arteritis
+rs12980600-?,2e-08,-,NR,1.6666665,-,[NR],RPS9,Takayasu arteritis,Takayasu arteritis
+rs34109750-?,5e-08,-,NR,2.23,-,-,HLA-DQB2,Takayasu arteritis,Takayasu arteritis
+rs9273902-?,7e-08,-,NR,2.21,-,-,HLA-DQB1,Takayasu arteritis,Takayasu arteritis
+rs1610644-?,8e-08,-,NR,1.99,-,-,"HLA-V,HLA-F-AS1",Takayasu arteritis,Takayasu arteritis
+rs7911604-?,1e-07,-,NR,2.1,-,-,TLL2,Takayasu arteritis,Takayasu arteritis
+rs1611209-?,1e-07,-,NR,2.02,-,-,"HLA-V,HCG4,HLA-F-AS1",Takayasu arteritis,Takayasu arteritis
+rs1429365-?,2e-07,-,NR,1.81,-,-,LRP1B,Takayasu arteritis,Takayasu arteritis
+rs77422524-?,5e-07,-,NR,2.04,-,-,DLGAP2,Takayasu arteritis,Takayasu arteritis
+rs1265067-?,8e-12,-,NR,2.41,-,-,CCHCR1,Takayasu arteritis,Takayasu arteritis
+rs3130618-?,2e-11,-,NR,2.6,-,-,GPANK1,Takayasu arteritis,Takayasu arteritis
+rs10573-?,3e-11,-,NR,2.6,-,-,ABHD16A,Takayasu arteritis,Takayasu arteritis
+rs1576-?,3e-11,-,NR,2.36,-,-,CCHCR1,Takayasu arteritis,Takayasu arteritis
+rs2517985-?,3e-11,-,NR,2.36,-,-,CCHCR1,Takayasu arteritis,Takayasu arteritis
+rs9267535-?,3e-11,-,NR,2.59,-,-,LY6G5C,Takayasu arteritis,Takayasu arteritis
+rs3134940-?,3e-11,-,NR,2.52,-,-,AGER,Takayasu arteritis,Takayasu arteritis
+rs9267532-?,3e-11,-,NR,2.61,-,-,LY6G5B,Takayasu arteritis,Takayasu arteritis
+rs1265078-?,3e-11,-,NR,2.36,-,-,CCHCR1,Takayasu arteritis,Takayasu arteritis
+rs3130627-?,3e-11,-,NR,2.61,-,-,PRRC2A,Takayasu arteritis,Takayasu arteritis
+rs3130070-?,4e-11,-,NR,2.57,-,-,PRRC2A,Takayasu arteritis,Takayasu arteritis
+rs2736157-?,4e-11,-,NR,2.57,-,-,PRRC2A,Takayasu arteritis,Takayasu arteritis
+rs10885-?,4e-11,-,NR,2.57,-,-,PRRC2A,Takayasu arteritis,Takayasu arteritis
+rs3130628-?,5e-11,-,NR,2.57,-,-,BAG6,Takayasu arteritis,Takayasu arteritis
+rs3130626-?,5e-11,-,NR,2.57,-,-,PRRC2A,Takayasu arteritis,Takayasu arteritis
+rs1062070-?,5e-11,-,NR,2.5,-,-,RNF5,Takayasu arteritis,Takayasu arteritis
+rs3130349-?,5e-11,-,NR,2.5,-,-,RNF5,Takayasu arteritis,Takayasu arteritis
+rs707915-?,6e-11,-,NR,2.57,-,-,"MSH5,MSH5-SAPCD1",Takayasu arteritis,Takayasu arteritis
+rs11229-?,8e-11,-,NR,2.56,-,-,PRRC2A,Takayasu arteritis,Takayasu arteritis
+rs707936-?,2e-10,-,NR,2.53,-,-,VWA7,Takayasu arteritis,Takayasu arteritis
+rs73426382-?,2e-10,-,NR,2.58,-,-,TRIM40,Takayasu arteritis,Takayasu arteritis
+rs9267547-?,5e-10,-,NR,2.35,-,-,"LY6G6F-LY6G6D,LY6G6F",Takayasu arteritis,Takayasu arteritis
+rs1116221-?,1e-09,-,NR,2.21,-,-,"TRIM31-AS1,TRIM31",Takayasu arteritis,Takayasu arteritis
+rs2523721-?,8e-09,-,NR,2.24,-,-,TRIM26,Takayasu arteritis,Takayasu arteritis
+rs6959179-?,2e-08,-,NR,1.84,-,-,PRRT4,Takayasu arteritis,Takayasu arteritis
+rs11008222-?,6e-07,-,0.49,1.64,-,[1.34-2.00],"ZNF438,LINC02644",Congenital left-sided heart lesions (maternal effect),"congenital left-sided heart lesions,parental genotype effect measurement"
+rs9341603-T,4e-06,-,NR,1.42,-,-,"LINC02540,HTR1B",Obstructive heart defect (maternal genotype effect),"congenital heart disease,parental genotype effect measurement"
+rs6763159-?,1e-06,(Maternal),NR,1.47,-,[1.25-1.72],CFAP20DC-DT,Conotruncal heart defects,"conotruncal heart malformations,parental genotype effect measurement"
+rs4366490-?,1e-06,"(EA, Maternal)",NR,1.7,-,[1.36-2.12],"SLC22A25,SLC22A24",Conotruncal heart defects,"conotruncal heart malformations,parental genotype effect measurement"

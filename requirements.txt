@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-pandas
-scikit-learn
-xgboost
-sqlalchemy
-psycopg2-binary
-python-multipart
-jinja2
